@@ -6,9 +6,9 @@
     <parameter name="platformName" value="Windows 10"/>
     <parameter name="browserVersion" value="112"/>
     <classes>
-      <!--<class name="testcases.TestNGTestScenario1"/>-->
+      <class name="testcases.TestNGTestScenario1"/>
       <class name="testcases.TestNGTestScenario2"/>
-      <!--<class name="testcases.TestNGTestScenario3"/>-->
+      <class name="testcases.TestNGTestScenario3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
